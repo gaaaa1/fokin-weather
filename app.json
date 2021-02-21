@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "my weahter app",
+    "githubUrl": "https://github.com/gaaaa1/fokin-weather"
   }
 }
